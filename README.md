@@ -15,7 +15,7 @@ Project ADML : A Million Star-Galaxy Image Dataset
 --------------------------------------------------------------------------------
 
 > A Million Star-Galaxy Image Dataset에 대한 설명은 영어와 한글로 구성되어 있습니다.   
-> [**1. A Million Star-Galaxy Image Dataset을 소개합니다**](https://github.com/PlutoMingyu/ADML#1-adml%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4) : 한글 버전을 읽으려면 링크를 클릭하세요.   
+> [**1. A Million Star-Galaxy Image Dataset을 소개합니다**](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset#1-a-million-star-galaxy-image-dataset%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4) : 한글 버전을 읽으려면 링크를 클릭하세요.   
 
 --------------------------------------------------------------------------------
 
