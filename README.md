@@ -5,12 +5,12 @@ Project ADML : A Million Star-Galaxy Image Dataset
 
 ### Project ADML : 'A Million Star-Galaxy Image Dataset'   
 #### The dataset consists of one million images and labels.
-#### Number of Star Data : 370,000 / Number of Galaxy Data : 630,000   
+#### Number of Star Data : 630,000 / Number of Galaxy Data : 370,000   
 
 --------------------------------------------------------------------------------   
 
 #### 'A Million Star-Galaxy Image Dataset'은 100만 개의 데이터로 구성되어 있습니다.
-#### 별 데이터 : 370,000개, 은하 데이터 : 630,000개   
+#### 별 데이터 : 630,000개, 은하 데이터 : 370,000개   
 
 --------------------------------------------------------------------------------
 
