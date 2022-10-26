@@ -36,4 +36,12 @@ Therefore, SGCP was still considered a valid problem to be solved, and the first
 SGCP는 별과 은하의 형상적 유사함으로 인해 이미지에서 구분이 어려워 발생하는 천문학 분야에서 오랜기간 고민해오고 있는 문제 중 하나입니다. 관측 장비와 기술의 발전에 따라 우리는 더 어두운 대상을 볼 수 있게 되었고, 이는 구별해야하는 별과 은하의 크기가 보다 작아지고 어두워짐을 의미합니다.   
 따라서, SGCP는 여전히 유효한 해결해야할 문제라고 생각하게 되었고 이를 위한 첫번째 계단으로 별-은하 이미지 데이터셋을 설계 및 구축하게 되었습니다.   
 
-# 2. 별-은하 이미지 데이터셋 설계   
+# 2. 별-은하 이미지 데이터셋 설계
+
+![Fig.1 GALAXY_1237667254549282989 Data](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/%EA%B7%B8%EB%A6%BC%201.%20GALAXY_1237667254549282989%20Image%20Data.png)   
+
+![Fig.2 Scale comparison of GALAXY_1237665427567804598 image data.png](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/%EA%B7%B8%EB%A6%BC%202.%20Scale%20comparison%20of%20GALAXY_1237665427567804598%20image%20data.png)   
+
+![Fig.3 Dataset building process.png](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/%EA%B7%B8%EB%A6%BC%203.%20Dataset%20building%20process.png)   
+
+![Fig.4 The challenge of star-galaxy image classification.png](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/%EA%B7%B8%EB%A6%BC%204.%20The%20challenge%20of%20star-galaxy%20image%20classification.png)
