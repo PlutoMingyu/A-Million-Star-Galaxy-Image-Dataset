@@ -1,11 +1,16 @@
-Project ADML : Astronomical Datasets for Machine Learning
+Project ADML : A Million Star-Galaxy Image Dataset
 ---------------------------------------------------------
 
 ![A Million Star-Galaxy Image Dataset](https://raw.githubusercontent.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/master/0.%20for%20GuideBook/A%20Million%20Star-Galaxy%20Dataset%20Logo_Dark.png)
 
-### Project ADML is a project to design and construct an astronomy dataset for AI engineers, astronomers   and for everyone interested in AI and astronomy.
+### Project ADML : 'A Million Star-Galaxy Image Dataset'   
+### The dataset consists of one million images and labels.
+### Number of Star Data : 370,000
+### Number of Galaxy Data : 630,000
 
-### ADML은 AI 엔지니어와 천문학자, 천문학 및 AI에 관심이 있는 모두를 위한    천문학 데이터셋 설계 및 구축 프로젝트입니다.   
+### 'A Million Star-Galaxy Image Dataset'은 100만 개의 데이터로 구성되어 있습니다.
+### 별 데이터 : 370,000개
+### 은하 데이터 : 630,000개
 
 --------------------------------------------------------------------------------
 
