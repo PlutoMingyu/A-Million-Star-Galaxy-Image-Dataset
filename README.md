@@ -43,16 +43,20 @@ SGCP는 별과 은하의 형상적 유사함으로 인해 이미지에서 구분
 
 <img src="https://www.sdss.org/wp-content/uploads/2014/11/SDSS_telescope_new.jpg" width="65%" height="65%" title="%(비율) 크기 설정" alt="Sloan Foundation 2.5m Telescope"></img>   
 
-### Sloan Foundation 2.5m Telescope
+#### Sloan Foundation 2.5m Telescope
 
 SDSS는 관측 가능한 우주 전체에 대한 광범위한 조사를 통해 이미지와 스펙트럼 등의 데이터를 공개 및 제공합니다.   
 
 ## 2-2. 이미지 데이터 정보
 ### - 크기 및 형식 : 512 × 512 × 3 (RGB) JPEG   
 SDSS에서 g, r, i 파장의 데이터를 합성 및 보정하여 제공하는 이미지를 사용합니다.   
+
 > SDSS에서 사용하는 장비(망원경, 카메라, 필터)에 대한 정보는   
-> [**SDSS : Telescopes and Instruments**](https://www.sdss.org/instruments) 문서에서 읽을 수 있습니다.
+
+> [**SDSS : Telescopes and Instruments**](https://www.sdss.org/instruments) 문서에서 읽을 수 있습니다.   
+
 > SDSS에서 다운로드한 JEPG 이미지에 대한 정보는   
+
 > [**SDSS : JPEG Images on SkyServer**](https://www.sdss.org/dr17/imaging/jpg-images-on-skyserver/) 문서에서 읽을 수 있습니다.
 
 <img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/GALAXY_1237667254549282989%20Image%20Data.png" width="65%" height="65%" title="%(비율) 크기 설정" alt="GALAXY_1237667254549282989 Image Data"></img>
