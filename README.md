@@ -38,10 +38,10 @@ SGCP는 별과 은하의 형상적 유사함으로 인해 이미지에서 구분
 
 # 2. 별-은하 이미지 데이터셋 설계
 
-<img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/GALAXY_1237667254549282989%20Image%20Data.pngg" width="30%" height="30%" title="%(비율) 크기 설정" alt="GALAXY_1237667254549282989 Image Data"></img>
+<img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/GALAXY_1237667254549282989%20Image%20Data.png" width="80%" height="80%" title="%(비율) 크기 설정" alt="GALAXY_1237667254549282989 Image Data"></img>
 
-<img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Scale%20comparison%20of%20GALAXY_1237665427567804598%20image%20data.png" width="20%" height="20%" title="%(비율) 크기 설정" alt="Scale comparison of GALAXY_1237665427567804598"></img>
+<img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Scale%20comparison%20of%20GALAXY_1237665427567804598%20image%20data.png" width="80%" height="80%" title="%(비율) 크기 설정" alt="Scale comparison of GALAXY_1237665427567804598"></img>
 
-<img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Dataset%20building%20process.png" width="20%" height="20%" title="%(비율) 크기 설정" alt="Dataset building process"></img>
+<img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Dataset%20building%20process.png" width="80%" height="80%" title="%(비율) 크기 설정" alt="Dataset building process"></img>
 
-<img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/The%20challenge%20of%20star-galaxy%20image%20classification.png" width="15%" height="15%" title="The challenge of star-galaxy image classification" alt="The challenge of star-galaxy image classification"></img>
+<img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/The%20challenge%20of%20star-galaxy%20image%20classification.png" width="80%" height="80%" title="The challenge of star-galaxy image classification" alt="The challenge of star-galaxy image classification"></img>
