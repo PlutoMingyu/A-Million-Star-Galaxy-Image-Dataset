@@ -38,10 +38,10 @@ SGCP는 별과 은하의 형상적 유사함으로 인해 이미지에서 구분
 
 # 2. 별-은하 이미지 데이터셋 설계
 
-![Fig.1 GALAXY_1237667254549282989 Data](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/%EA%B7%B8%EB%A6%BC%201.%20GALAXY_1237667254549282989%20Image%20Data.png)   
+![GALAXY_1237667254549282989](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/GALAXY_1237667254549282989%20Image%20Data.png)   
 
-![Fig.2 Scale comparison of GALAXY_1237665427567804598 image data.png](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/%EA%B7%B8%EB%A6%BC%202.%20Scale%20comparison%20of%20GALAXY_1237665427567804598%20image%20data.png)   
+![Scale comparison of GALAXY_1237665427567804598](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Scale%20comparison%20of%20GALAXY_1237665427567804598%20image%20data.png)   
 
-![Fig.3 Dataset building process.png](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/%EA%B7%B8%EB%A6%BC%203.%20Dataset%20building%20process.png)   
+![Dataset building process](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/The%20challenge%20of%20star-galaxy%20image%20classification.png)   
 
-![Fig.4 The challenge of star-galaxy image classification.png](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/%EA%B7%B8%EB%A6%BC%204.%20The%20challenge%20of%20star-galaxy%20image%20classification.png)
+![The challenge of star-galaxy image classification](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Dataset%20building%20process.png)
