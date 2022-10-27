@@ -20,10 +20,10 @@ Project ADML : A Million Star-Galaxy Image Dataset
 --------------------------------------------------------------------------------
 
 # 1. Introduction
-A Million Star-Galaxy Image Dataset is design and construct to improve the performance of the Star-Galaxy Classification Problem (SGCP).
+A Million Star-Galaxy Image Dataset is design and build to improve the performance of the Star-Galaxy Classification Problem (SGCP).
 SGCP is a traditional problem in astronomy, which is difficult to distinguish in images due to the geometrical similarity between stars and galaxies.   
 Advances in observing equipment and technology have allowed us to see darker objects, which means is that stars and galaxies images become darker and smaller.
-Therefore, SGCP was still considered a valid problem to be solved, and the first step toward this was to design and construct a Star-Galaxy Image Dataset.   
+Therefore, SGCP was still considered a valid problem to be solved, and the first step toward this was to design and build a Star-Galaxy Image Dataset.   
 
 # 2. Design of A Million Star-Galaxy Image Dataset   
 
