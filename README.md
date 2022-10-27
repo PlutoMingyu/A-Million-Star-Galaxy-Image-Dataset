@@ -42,6 +42,6 @@ SGCP는 별과 은하의 형상적 유사함으로 인해 이미지에서 구분
 
 <img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Scale%20comparison%20of%20GALAXY_1237665427567804598%20image%20data.jpg" width="60%" height="60%" title="%(비율) 크기 설정" alt="Scale comparison of GALAXY_1237665427567804598"></img>
 
-<img src=https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Dataset%20building%20process.jpg" width="60%" height="60%" title="%(비율) 크기 설정" alt="Dataset building process"></img>
+<img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Dataset%20building%20process.jpg" width="60%" height="60%" title="%(비율) 크기 설정" alt="Dataset building process"></img>
 
 <img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/The%20challenge%20of%20star-galaxy%20image%20classification.jpg" width="60%" height="60%" title="%(비율) 크기 설정" alt="The challenge of star-galaxy image classification"></img>
