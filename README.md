@@ -41,6 +41,10 @@ SGCP는 별과 은하의 형상적 유사함으로 인해 이미지에서 구분
 ## 2-1. 데이터의 출처   
 데이터세트를 구성하는 이미지 및 메타 데이터는 [**SDSS DR17**](https://www.sdss.org/)(Sloan Digital Sky Survey)의 DR(Data Release) 17 데이터를 사용했습니다.   
 
+<img src="https://www.sdss.org/wp-content/uploads/2014/11/SDSS_telescope_new.jpg" width="65%" height="65%" title="%(비율) 크기 설정" alt="Sloan Foundation 2.5m Telescope"></img>   
+
+### Sloan Foundation 2.5m Telescope
+
 SDSS는 관측 가능한 우주 전체에 대한 광범위한 조사를 통해 이미지와 스펙트럼 등의 데이터를 공개 및 제공합니다.   
 
 ## 2-2. 이미지 데이터 정보
