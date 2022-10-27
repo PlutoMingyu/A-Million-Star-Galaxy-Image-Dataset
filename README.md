@@ -58,7 +58,7 @@ SDSS에서 g, r, i 파장의 데이터를 합성 및 보정하여 제공하는 �
     i : Infra Red, 7480Å
     z : Infra Red, 8932Å   
 
-<img src="https://www.sdss.org/wp-content/uploads/2014/11/camera_filters-300x274.jpg\" width="100%" height="100%" title="%(비율) 크기 설정" alt="The SDSS-III camera filter throughput curves"></img>   
+<img src="https://www.sdss.org/wp-content/uploads/2014/11/camera_filters-300x274.jpg" width="100%" height="100%" title="%(비율) 크기 설정" alt="The SDSS-III camera filter throughput curves"></img>   
 
 #### The SDSS-III camera filter throughput curves   
 
