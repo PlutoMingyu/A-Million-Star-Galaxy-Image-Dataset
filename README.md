@@ -51,6 +51,13 @@ SDSS는 관측 가능한 우주 전체에 대한 광범위한 조사를 통해 �
 ### - 크기 및 형식 : 512 × 512 × 3 (RGB) JPEG   
 SDSS에서 g, r, i 파장의 데이터를 합성 및 보정하여 제공하는 이미지를 사용합니다.   
 여기서 g는 가시광선의 녹색 영역, r은 가시광선의 적색 영역, i는 적외선 영역 중 7600Å 파장입니다.   
+
+    u : Ultra Violet, 3551Å
+    g : Visual Light - Green, 4686Å
+    r : Visual Light - Red, 6166Å
+    i : Infra Red, 7480Å
+    z : Infra Red, 8932Å   
+
 <img src="https://www.sdss.org/wp-content/uploads/2014/11/camera_filters-300x274.jpg\" width="100%" height="100%" title="%(비율) 크기 설정" alt="The SDSS-III camera filter throughput curves"></img>   
 
 #### The SDSS-III camera filter throughput curves   
