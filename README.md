@@ -38,7 +38,7 @@ SGCP는 별과 은하의 형상적 유사함으로 인해 이미지에서 구분
 
 # 2. 별-은하 이미지 데이터셋 설계
 
-![GALAXY_1237667254549282989](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/GALAXY_1237667254549282989%20Image%20Data.jpg)   
+img src="https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/GALAXY_1237667254549282989%20Image%20Data.jpg" width="80%" height="80%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
 ![Scale comparison of GALAXY_1237665427567804598](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset/blob/master/0.%20for%20GuideBook/Scale%20comparison%20of%20GALAXY_1237665427567804598%20image%20data.jpg)   
 
